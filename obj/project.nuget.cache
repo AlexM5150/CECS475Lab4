@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MCuvSYMsFLLD2vUEwetwLcw/CSyytDcLov1EVkMhxACLsgQBCDoo5rMe9RiVQURWzQ65OPgWCgzad6CDz+Fn7g==",
+  "dgSpecHash": "s22IaRR7l7fAl5eSXt69NNsDW5r4ok/bLMLyMFwoWS+MPTm2bE1NwlFMp+LCZxPai+YMWxEXhwoQjkTHcZjVmg==",
   "success": true,
-  "projectFilePath": "/Users/alexmelford/Projects/Lab4/Lab4.csproj",
+  "projectFilePath": "/Users/alexmelford/Projects/Lab4/Lab4/Lab4.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
