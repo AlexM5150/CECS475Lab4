@@ -9,12 +9,10 @@ namespace Lab4.Controllers;
 public class HomeController : Controller
 {
     private readonly IHolidaysApiService _holidaysApiService;
-
     public HomeController(IHolidaysApiService holidaysApiService)
     {
         _holidaysApiService = holidaysApiService;
     }
-
     public async Task<IActionResult> Index(string countryCode, int year)
     {
         List<HolidayModel> holidays = new List<HolidayModel>();
