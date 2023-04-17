@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexmelford/Projects/Lab4/Lab4/Lab4.csproj": {}
+    "C:\\Users\\Alex Melford\\Documents\\Github\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "/Users/alexmelford/Projects/Lab4/Lab4/Lab4.csproj": {
+    "C:\\Users\\Alex Melford\\Documents\\Github\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexmelford/Projects/Lab4/Lab4/Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\Alex Melford\\Documents\\Github\\Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "/Users/alexmelford/Projects/Lab4/Lab4/Lab4.csproj",
-        "packagesPath": "/Users/alexmelford/.nuget/packages/",
-        "outputPath": "/Users/alexmelford/Projects/Lab4/Lab4/obj/",
+        "projectPath": "C:\\Users\\Alex Melford\\Documents\\Github\\Lab4\\Lab4.csproj",
+        "packagesPath": "C:\\Users\\Alex Melford\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex Melford\\Documents\\Github\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alexmelford/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Alex Melford\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
